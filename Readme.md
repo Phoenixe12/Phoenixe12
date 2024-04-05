@@ -10,20 +10,24 @@
 
 # 💫 About Me:
 
- <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" width="400px">
- 
-<h5 align="left">
-🔭 Je travaille actuellement en tant que freelance, contributeur open source et blogueur ;</br>
-🌱 J'apprends actuellement à devenir une sorte de startup en tant que personne ; </br>
-🎯 Je travaille dur pour devenir un Developpeur Dart ,Flutter  and Laravel; </br>
-👯 Je cherche à collaborer sur tout ce qui concerne l'open source et comment rendre vos utilisateurs heureux ; </br>
-💬 Posez-moi des questions sur la programmation, l'IA et l'informatique,Laravel et Flutter; </br>
-📫 Comment me joindre : abiodoundamala@gmail.com ; </br>
-⚡ Anecdote amusante : je suis accro aux mangas et également passionnée du Basketball et de jeux vidéo ;
-</h5>
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" width="320px">
 
 
-   
+<p align="left" style="line-height: 2;">
+    🔭 I'm currently working as a freelance, open source contributor, and blogger ;<br>
+    🌱 I'm currently learning to become a kind of startup as a person ;<br>
+    🎯 I'm working hard to become a Dart, Flutter, and Laravel Developer ;<br>
+    👯 I'm looking to collaborate on anything related to open source and making your users happy ;<br>
+    💬 Ask me questions about programming, AI and computer science, Laravel, and Flutter ;<br>
+    📫 How to reach me: abiodoundamala@gmail.com ;<br>
+    ⚡ Fun fact: I'm addicted to manga and also passionate about basketball and video games ;
+</p>
+
+
+
+
+
+   </br> </br> </br> </br>
 
 ## 🌐 Socials:
 
