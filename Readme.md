@@ -9,7 +9,18 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on a marketplace.<br>🌱 I’m currently learning  Laravel, Flutter and Figma<br>💬 Ask me questions about Laravel and Flutter<br>
+
+<p align="left">
+    🔭 I’m currently working on a marketplace.<br>
+    🌱 I’m currently learning Laravel, Flutter and Figma.<br>
+    💬 Ask me questions about Laravel and Flutter.
+</p>
+
+<p align="right">
+    <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" width="400px">
+</p>
+
+
 
 
 ## 🌐 Socials:
