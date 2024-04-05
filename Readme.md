@@ -10,18 +10,20 @@
 
 # 💫 About Me:
 
-<p align="left">
-    🔭 I’m currently working on a marketplace.<br>
-    🌱 I’m currently learning Laravel, Flutter and Figma.<br>
-    💬 Ask me questions about Laravel and Flutter.
-</p>
+ <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" width="400px">
+ 
+<h5 align="left">
+🔭 Je travaille actuellement en tant que freelance, contributeur open source et blogueur ;</br>
+🌱 J'apprends actuellement à devenir une sorte de startup en tant que personne ; </br>
+🎯 Je travaille dur pour devenir un Developpeur Dart ,Flutter  and Laravel; </br>
+👯 Je cherche à collaborer sur tout ce qui concerne l'open source et comment rendre vos utilisateurs heureux ; </br>
+💬 Posez-moi des questions sur la programmation, l'IA et l'informatique,Laravel et Flutter; </br>
+📫 Comment me joindre : abiodoundamala@gmail.com ; </br>
+⚡ Anecdote amusante : je suis accro aux mangas et également passionnée du Basketball et de jeux vidéo ;
+</h5>
 
-<p align="right">
-    <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" width="400px">
-</p>
 
-
-
+   
 
 ## 🌐 Socials:
 
