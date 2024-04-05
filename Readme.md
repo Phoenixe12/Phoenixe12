@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+El+Anewar+DAMALA+." />
 </h1>
 
-<h3 align="center">I'm a full-stack developer proficient in Laravel and Flutter.;</h3>
+<h3 align="center">I'm a full-stack developer proficient in Laravel and Flutter.</h3>
 
 
 # 💫 About Me:
